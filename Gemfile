@@ -37,7 +37,7 @@ gem 'font-awesome-sass', '4.6.2'
 gem 'hirb', '0.7.3'
 
 # Use Devise for user authentication
-gem 'devise', '4.2.0'
+gem 'devise', '4.4.0'
 
 group :development, :test do
   # Use sqlite3 as the database for Active Record
